@@ -9,8 +9,8 @@
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java-OO-Curso02 - ScreenMatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,81 +36,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Desafio04.br.com.alura.exercicio02.Teste.executor": "Run",
-    "Application.Desafio04.br.com.alura.exercicio04.Teste.executor": "Run",
-    "Application.Desafio04.br.com.alura.exercicio05.Teste.executor": "Run",
-    "Application.Desafio04.br.com.alura.exercicio06.Teste.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.Teste.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/tonyc/Documents/GitHub/aprender-programar-java-OO/Java-OO-Curso02 - ScreenMatch/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Desafio04.br.com.alura.exercicio02.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio04.br.com.alura.exercicio04.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio04.br.com.alura.exercicio05.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio04.br.com.alura.exercicio06.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/tonyc/Documents/GitHub/aprender-programar-java-OO/Java-OO-Curso02 - ScreenMatch/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Desafio04.br.com.alura.exercicio06.Teste">
-    <configuration name="Desafio04.br.com.alura.exercicio04.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio04.br.com.alura.exercicio04.Teste" />
+}</component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="Java-OO-Curso02 - ScreenMatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Desafio04.br.com.alura.exercicio04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Desafio04.br.com.alura.exercicio05.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio04.br.com.alura.exercicio05.Teste" />
-      <module name="Java-OO-Curso02 - ScreenMatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Desafio04.br.com.alura.exercicio05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Desafio04.br.com.alura.exercicio06.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio04.br.com.alura.exercicio06.Teste" />
-      <module name="Java-OO-Curso02 - ScreenMatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Desafio04.br.com.alura.exercicio06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio04.br.com.alura.exercicio03.Teste" />
-      <module name="Java-OO-Curso02 - ScreenMatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Desafio04.br.com.alura.exercicio03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Desafio04.br.com.alura.exercicio06.Teste" />
-        <item itemvalue="Application.Desafio04.br.com.alura.exercicio04.Teste" />
-        <item itemvalue="Application.Desafio04.br.com.alura.exercicio05.Teste" />
-        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
   </component>
