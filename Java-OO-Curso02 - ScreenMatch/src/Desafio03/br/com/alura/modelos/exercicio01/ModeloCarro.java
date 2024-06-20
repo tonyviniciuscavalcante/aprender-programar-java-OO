@@ -1,4 +1,4 @@
-package Desafio03.br.com.alura.modelos.exercicio1;
+package Desafio03.br.com.alura.modelos.exercicio01;
 
 public class ModeloCarro extends Carro{
     private int quantidadePortas;
