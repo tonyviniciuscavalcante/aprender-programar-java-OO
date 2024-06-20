@@ -5,4 +5,4 @@ Curso 1 - Java: criando a sua primeira aplicação
 
 Curso 2 - Java: aplicando a Orientação a Objetos
 
-Curs 3 - Java: trabalhando com listas e coleções de dados
+Curso 3 - Java: trabalhando com listas e coleções de dados
