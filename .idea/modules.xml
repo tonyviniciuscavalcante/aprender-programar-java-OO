@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-OO-Curso03/Compras/Compras.iml" filepath="$PROJECT_DIR$/Java-OO-Curso03/Compras/Compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OO-Curso01/Java-OO-Curso01.iml" filepath="$PROJECT_DIR$/Java-OO-Curso01/Java-OO-Curso01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OO-Curso04/Java-OO-Curso04.iml" filepath="$PROJECT_DIR$/Java-OO-Curso04/Java-OO-Curso04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OO-Curso02/MinhasMusicas/MinhasMusicas.iml" filepath="$PROJECT_DIR$/Java-OO-Curso02/MinhasMusicas/MinhasMusicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OO-Curso02/ScreenMatch/ScreenMatch.iml" filepath="$PROJECT_DIR$/Java-OO-Curso02/ScreenMatch/ScreenMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OO-Curso03/ScreenMatch/ScreenMatch2.iml" filepath="$PROJECT_DIR$/Java-OO-Curso03/ScreenMatch/ScreenMatch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aprender-programar-java-OO.iml" filepath="$PROJECT_DIR$/.idea/aprender-programar-java-OO.iml" />
+    </modules>
+  </component>
+</project>
